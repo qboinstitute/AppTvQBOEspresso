@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppTvQBOEspresso</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valetapellido">Ingrese su apellido</string>
+    <string name="valtvgenero">Seleccione su género</string>
+    <string name="valrbmasculino">Masculino</string>
+    <string name="valrbfemenino">Femenino</string>
+    <string name="valbtnregistrar">REGISTRAR</string>
+    <string name="tvtitulo">UI TESTING CON ESPRESSO</string>
+</resources>
